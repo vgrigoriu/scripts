@@ -1,0 +1,1 @@
+﻿Robocopy.exe G:\muzică "\\goflex_home\GoFlex Home Public\music" /MIR /UNICODE /FFT
