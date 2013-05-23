@@ -1,1 +1,1 @@
-﻿Robocopy.exe G:\poze "\\goflex_home\GoFlex Home Public\poze" /MIR /UNICODE /FFT
+﻿Robocopy.exe F:\poze "\\goflex_home\GoFlex Home Public\poze" /MIR /UNICODE /FFT
