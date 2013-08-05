@@ -20,7 +20,8 @@ cinstm githubforwindows
 cinstm windirstat
 cinstm lockhunter
 
-cinstm FoxitReader
+# this package fails to install
+#cinstm FoxitReader
 cinstm lastpass
 
 # Visual studio stuff
