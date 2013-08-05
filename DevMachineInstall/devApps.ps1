@@ -24,6 +24,10 @@ cinstm lockhunter
 #cinstm FoxitReader
 cinstm lastpass
 
+# cloud storage
+cinstm dropbox
+cinstm SkyDrive
+
 # Visual studio stuff
 #cinstm VisualStudio2013Ultimate
 #cinstm VisualStudio2012Ultimate
