@@ -1,5 +1,11 @@
 # Dev apps to install
 
+cinstm PowerShell
+
+#browsers
+cinstm GoogleChrome
+cinstm Firefox
+
 # media stuff
 cinstm vlc
 cinstm calibre
@@ -10,7 +16,6 @@ cinstm iTunes
 cinstm SublimeText3.app
 cinstm githubforwindows
 
-cinstm PowerShell
 
 cinstm windirstat
 cinstm lockhunter
