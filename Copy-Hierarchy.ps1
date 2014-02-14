@@ -1,3 +1,5 @@
+# C:\scripts\Copy-Hierarchy.ps1 E:\muzică C:\Users\victor\SkyDrive\booklets .mobi,.epub,.pdf
+
 Param([string]$Source, [string]$Destination, [string[]]$Extensions)
 
 Push-Location $Source
